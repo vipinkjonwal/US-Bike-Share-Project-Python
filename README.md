@@ -24,6 +24,7 @@ Udacity Project based on Python.
 
 ## Tool Used
 * Jupyter Notebook
+* PyCharm by Jetbrain Technology 
 
 ## Files Included
 * Bike_Share_Analysis.ipynb (_Jupyter Notebook File_)
@@ -34,3 +35,6 @@ Udacity Project based on Python.
   - Washington-CapitalBikeshare-2016.csv
   
 Data is provided by [Motivate](https://www.motivateco.com)
+
+## Copyright 
+- Vipin Kumar 
